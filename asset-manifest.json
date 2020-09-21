@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/anees-portfolio/static/css/main.a41ed6be.chunk.css",
+    "main.js": "/anees-portfolio/static/js/main.a226a65b.chunk.js",
+    "main.js.map": "/anees-portfolio/static/js/main.a226a65b.chunk.js.map",
+    "runtime-main.js": "/anees-portfolio/static/js/runtime-main.a79da84c.js",
+    "runtime-main.js.map": "/anees-portfolio/static/js/runtime-main.a79da84c.js.map",
+    "static/js/2.7aedc2f5.chunk.js": "/anees-portfolio/static/js/2.7aedc2f5.chunk.js",
+    "static/js/2.7aedc2f5.chunk.js.map": "/anees-portfolio/static/js/2.7aedc2f5.chunk.js.map",
+    "index.html": "/anees-portfolio/index.html",
+    "precache-manifest.dbf7c50197e1d1fbf0b215f8284611f2.js": "/anees-portfolio/precache-manifest.dbf7c50197e1d1fbf0b215f8284611f2.js",
+    "service-worker.js": "/anees-portfolio/service-worker.js",
+    "static/css/main.a41ed6be.chunk.css.map": "/anees-portfolio/static/css/main.a41ed6be.chunk.css.map",
+    "static/js/2.7aedc2f5.chunk.js.LICENSE.txt": "/anees-portfolio/static/js/2.7aedc2f5.chunk.js.LICENSE.txt",
+    "static/media/Anees_CV.pdf": "/anees-portfolio/static/media/Anees_CV.d2a09394.pdf",
+    "static/media/IMG_20191030_170835.jpg": "/anees-portfolio/static/media/IMG_20191030_170835.af827e42.jpg",
+    "static/media/adminpage.png": "/anees-portfolio/static/media/adminpage.0bc7d7f2.png",
+    "static/media/arrowicon.png": "/anees-portfolio/static/media/arrowicon.c8a77c43.png",
+    "static/media/bajacar.jpg": "/anees-portfolio/static/media/bajacar.85fad661.jpg",
+    "static/media/bajagroup.jpg": "/anees-portfolio/static/media/bajagroup.0414ef38.jpg",
+    "static/media/cartopview.png": "/anees-portfolio/static/media/cartopview.9b492017.png",
+    "static/media/clientpage1.png": "/anees-portfolio/static/media/clientpage1.be6b813e.png",
+    "static/media/company_logo.png": "/anees-portfolio/static/media/company_logo.c9757e27.png",
+    "static/media/company_logo_inverted.png": "/anees-portfolio/static/media/company_logo_inverted.4498a394.png",
+    "static/media/eHMICar.png": "/anees-portfolio/static/media/eHMICar.1ecc2952.png",
+    "static/media/facebookicon.png": "/anees-portfolio/static/media/facebookicon.ad6cae77.png",
+    "static/media/hiker.png": "/anees-portfolio/static/media/hiker.45ab633a.png",
+    "static/media/linkedinicon.png": "/anees-portfolio/static/media/linkedinicon.19e067b6.png",
+    "static/media/mobilepage.png": "/anees-portfolio/static/media/mobilepage.2ddd9247.png",
+    "static/media/pedsim.png": "/anees-portfolio/static/media/pedsim.d864c094.png",
+    "static/media/questionnaire.png": "/anees-portfolio/static/media/questionnaire.a9359f60.png",
+    "static/media/userflow1.png": "/anees-portfolio/static/media/userflow1.9e03fa42.png",
+    "static/media/webpage1.png": "/anees-portfolio/static/media/webpage1.7c6761cf.png",
+    "static/media/website.png": "/anees-portfolio/static/media/website.96ea3c3f.png",
+    "static/media/MasterThesis.css": "/anees-portfolio/static/media/workflowmv.7bc555ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a79da84c.js",
+    "static/js/2.7aedc2f5.chunk.js",
+    "static/css/main.a41ed6be.chunk.css",
+    "static/js/main.a226a65b.chunk.js"
+  ]
+}
