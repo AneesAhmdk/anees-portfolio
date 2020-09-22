@@ -74,7 +74,8 @@ class About extends Component {
                     But I had other thoughts. Why not portray my skills through my own designing and coding of my portfolio? Well, it took me
                     20 hours (not bad for a junior designer I think). I've been following the notion to never copy designs except for reference. 
                     This makes me believe on how creative I can get. </p><br/>
-                    If you find me and my work interesting, get in touch with me <Link style = {{textDecoration : "none"}} to = '/ContactMe'>here</Link> 
+                    I'm currently open to opportunities in the field of UX/UI/HMI design and development. 
+                    If you find me and my <Link style = {{textDecoration : "none", color : "blue"}} to = '/work'>work</Link> interesting, please reach out to me using the <Link style = {{textDecoration : "none", color : "blue"}} to = '/ContactMe'>contact form</Link> 
                             
                     
                 </div>
