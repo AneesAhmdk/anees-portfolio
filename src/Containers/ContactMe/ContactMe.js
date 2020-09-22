@@ -61,8 +61,8 @@ render() {
         <div className = "contactMe">
           <h1 className="p-heading1">Get in touch with me!</h1>
           <p>
-              <ExternalLink href = "https://www.linkedin.com/in/anees-kaleefathullah/"><img src = {linkedinicon} alt = '' width = "40px"/></ExternalLink> &nbsp; &nbsp;
-              <ExternalLink href = "https://www.facebook.com/aneesahmdk"><img src = {facebookicon} alt = '' width = "40px"/></ExternalLink> <br/><br/> 
+              <ExternalLink href = "https://www.linkedin.com/in/anees-kaleefathullah/"><img src = {linkedinicon} alt = 'linkedin icon' width = "40px"/></ExternalLink> &nbsp; &nbsp;
+              <ExternalLink href = "https://www.facebook.com/aneesahmdk"><img src = {facebookicon} alt = 'facebook icon' width = "40px"/></ExternalLink> <br/><br/> 
               Mail to : <span style = {{fontWeight : "bold"}}>aneesahmdk@gmail.com</span> or use the contact form below
               </p>
           <Form className = "contactMeform" onSubmit={this.handleSubmit.bind(this)}>

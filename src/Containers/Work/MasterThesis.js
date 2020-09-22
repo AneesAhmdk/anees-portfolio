@@ -16,7 +16,7 @@ class MasterThesis extends Component {
                 <NavigationBar/>
             <div className = "masterthesis">
                     <h2 style = {{textAlign : "center"}}>Master Thesis on Pedestrian Interaction with external-Human Machine Interface(eHMI) of Autonomous Vehicles </h2>
-                    <img className = "mtimg" src = {eHMIcar} alt = '' width = "70%" height = "auto" />
+                    <img className = "mtimg" src = {eHMIcar} alt = 'thesis car with eHMI' width = "70%" height = "auto" />
                 
                 <div className = "mtInfo">
                     <div className = "lefttext">
@@ -57,7 +57,7 @@ class MasterThesis extends Component {
                 </div>
                 <div className = "mtmaintext">
                     <h1>Workflow</h1>
-                    <img className = "userflow" src = {userflow} alt = '' width = "100%" />
+                    <img className = "userflow" src = {userflow} alt = 'workflow' width = "100%" />
                     <h1>Problem</h1>
                     <p>
                         There are numerous eHMIs available for self driving cars both in production and in research. But the most crucial part 
@@ -75,11 +75,11 @@ class MasterThesis extends Component {
                         The main study was conducted in 
                         the <ExternalLink href = "https://uolds.leeds.ac.uk/facility/hikerlab/" >HIKER</ExternalLink> lab at the University of Leeds, UK.</p>
                         <h3 style = {{textAlign : "center"}}>The HIKER pedestrian lab</h3>
-                        <img className = "mtimg" src = {hiker} alt = '' width = "70%" height = "auto" />
+                        <img className = "mtimg" src = {hiker} alt = 'HIKER lab' width = "70%" height = "auto" />
                         <h3 style = {{textAlign : "center"}}>Pre and post experiment user questionnaire </h3>
-                        <img className = "mtimg" src = {questionnaire} alt = '' width = "70%" height = "auto" />
+                        <img className = "mtimg" src = {questionnaire} alt = 'questonnaire' width = "70%" height = "auto" />
                         <h3 style = {{textAlign : "center"}}>A view of the AV in the simulation</h3>
-                        <img className = "mtimg" src = {cartopview} alt = '' width = "70%" height = "auto" /> 
+                        <img className = "mtimg" src = {cartopview} alt = 'AV view in sim' width = "70%" height = "auto" /> 
                         
                     
 

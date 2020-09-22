@@ -29,11 +29,11 @@ class About extends Component {
                     a mini buggy from scratch (as a team). We all enjoyed because of our love of getting our hands soiled and obviously the fact that they are CARS. </p>
                     <div className="img-container">
                         <p style = {{fontSize : "1.1rem", fontFamily : "sans-serif"}}>
-                            <img className = "car" src = {bajacar} alt = '' width = "100%"/><br/>
+                            <img className = "car" src = {bajacar} alt = 'baja car' width = "100%"/><br/>
                         
                         The mini buggy made for BAJA SAE INDIA 2017</p>
                         <p style = {{fontSize : "1.1rem", fontFamily : "sans-serif"}}>
-                            <img className = "group" src = {group} alt = '' width = "80%"/><br/>
+                            <img className = "group" src = {group} alt = 'baja team' width = "80%"/><br/>
                         
                         My BAJA team. (P.S. I'm the one sitting in the front with a blue t-shirt :P)</p>
                     </div>

@@ -17,13 +17,13 @@ class Work extends Component {
                 
                 <div className = "workInfo">
                     <div className = "worklefttext">
-                    <Link to = '/thesis'><img src = {pedsim} alt = '' width = "100%" height = "auto" /></Link>
+                    <Link to = '/thesis'><img src = {pedsim} alt = 'pedsim' width = "100%" height = "auto" /></Link>
                     </div>
 
                     <div className = "workrighttext">
                         <div className = "ms1" >
                             <h2>Pedestrian Psychological Behavior when Interacting with an Autonomous Vehicle equipped with an external HMI </h2>
-                            <Link to = '/thesis'> <img src = {arrowicon} alt = '' width = "13px" height = "auto"/> View</Link>
+                            <Link to = '/thesis'> <img src = {arrowicon} alt = 'arrow icon' width = "13px" height = "auto"/> View</Link>
                         </div>
                     </div>
                 </div>
@@ -33,11 +33,11 @@ class Work extends Component {
                     <div className = "worklefttext1">
                     <div className = "ms2">
                             <h2>Design and Development of Responsive Pet Adoption Website</h2>
-                            <Link to = '/website'> View <img src = {arrowicon} alt = '' width = "13px" height = "auto"/> </Link>
+                            <Link to = '/website'> View <img src = {arrowicon} alt = 'arrow icon' width = "13px" height = "auto"/> </Link>
                         </div>
                     </div>
                     <div className = "workrighttext1">
-                    <Link to = '/website'><img src = {website} alt = '' width = "100%" height = "auto" /></Link>
+                    <Link to = '/website'><img src = {website} alt = 'website' width = "100%" height = "auto" /></Link>
                     </div>
                 </div>
             </div>

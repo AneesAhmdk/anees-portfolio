@@ -14,7 +14,7 @@ class Website extends Component {
                 <NavigationBar/>
             <div className = "website">
                     <h2 style = {{textAlign : "center"}}>Design and Development of Responsive Pet Adoption Website </h2>
-                    <img className = "webimg" src = {webpage1} alt = '' width = "90%" height = "auto" />
+                    <img className = "webimg" src = {webpage1} alt = 'webpage' width = "90%" height = "auto" />
                 
                 <div className = "wbInfo">
                     <div className = "wblefttext">
@@ -58,11 +58,11 @@ class Website extends Component {
                         to donate for vet bills and shelter development.   
                     </p>
                     <h3 style = {{textAlign : "center"}}>Admin page</h3>
-                    <img src = {adminpage} alt = ''/>
+                    <img src = {adminpage} alt = 'admin page'/>
                     <h3 style = {{textAlign : "center"}}>Client page- Desktop View</h3>
-                    <img src = {clientpage} alt = ''/>
+                    <img src = {clientpage} alt = 'client page'/>
                     <h3 style = {{textAlign : "center"}}>Client page- Mobile View</h3>
-                    <img src = {mobileview} alt = ''/>
+                    <img src = {mobileview} alt = 'client page - mobile'/>
                     <h3>Status</h3>
                     <p>The development of the website is completed. Due to a technical error by the hosting site, the deployment of the website is delayed slightly by a few days. 
                         The website will be live on www.adhvikafoundation.com within a week.

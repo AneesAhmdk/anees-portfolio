@@ -4,9 +4,9 @@ import whitetogglebutton from '../../../../assets/menubariconwhite.png'
 import './DrawerToggleButton.css';
 
 const drawerToggleButton = props =>{
-    let image = <img className = "anim" src = {toggleButton} alt = "cat paw toggle button"/>
+    let image = <img className = "anim" src = {toggleButton} alt = "toggle button"/>
     if(props.path === '/'){
-        image = <img className = "anim" src = {whitetogglebutton} alt = "cat paw toggle button"/>
+        image = <img className = "anim" src = {whitetogglebutton} alt = "toggle button"/>
     }
     return(
     <div className = "toggleButton" onClick = {props.click}>

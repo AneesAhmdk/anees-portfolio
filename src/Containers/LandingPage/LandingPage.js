@@ -13,7 +13,7 @@ class LandingPage extends Component {
                 <NavigationBar path = {path}/>
                     <div className = "containers">
                         <div className = "image_wrapper">
-                            <img src = {mypic} alt = '' width = '120%' height  = 'auto'/>
+                            <img src = {mypic} alt = 'personal photo' width = '120%' height  = 'auto'/>
                         </div>
                         <div className = "text_wrapper">
                             <div className = "aboutme">
