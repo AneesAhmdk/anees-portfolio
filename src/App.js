@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route, Switch, BrowserRouter } from 'react-router-dom';
+import { Route, Switch, HashRouter } from 'react-router-dom';
 import About from './Containers/About/About';
 import ContactMe from './Containers/ContactMe/ContactMe'
 import Cv from './Containers/CV/CV';
@@ -13,7 +13,7 @@ class App extends Component {
 render(){
   return(
     <div>
-      <BrowserRouter basename={`${process.env.PUBLIC_URL}/`}>
+      <HashRouter basename={`${process.env.PUBLIC_URL}/`}>
     <Switch>
       <Route path = "/" exact component = {LandingPage}/>
       <Route path = "/about" component  ={About}/>
@@ -23,7 +23,7 @@ render(){
       <Route path = "/CV" component = {Cv}/>
       <Route path = "/ContactMe" component = {ContactMe}/>
     </Switch>
-    </BrowserRouter>
+    </HashRouter>
     </div>
   );
 }
