@@ -91,7 +91,7 @@ class MasterThesis extends Component {
                         Our interesting findings were compiled to be published in the Human Factors Journal. A copy of the pre-print is available on ResearchGate in the following link. <br/>
                         <br/>
                         <ExternalLink href="https://www.researchgate.net/publication/340923494_External_Human-Machine_Interfaces_can_be_Misleading_An_examination_of_trust_development_and_misuse_in_a_CAVE-based_pedestrian_simulation_environment">
-                        Journal prerint
+                        Journal pre-print
                         </ExternalLink>
                     </p>                    
                 </div>
