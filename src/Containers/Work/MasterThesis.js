@@ -16,7 +16,7 @@ class MasterThesis extends Component {
                 <NavigationBar/>
             <div className = "masterthesis">
                     <h2 style = {{textAlign : "center"}}>Master Thesis on Pedestrian Interaction with external-Human Machine Interface(eHMI) of Autonomous Vehicles </h2>
-                    <img className = "mtimg" src = {eHMIcar} alt = 'thesis car with eHMI' width = "70%" height = "auto" />
+                    <img className = "mttopimg" src = {eHMIcar} alt = 'thesis car with eHMI' width = "70%" height = "auto" />
                 
                 <div className = "mtInfo">
                     <div className = "lefttext">

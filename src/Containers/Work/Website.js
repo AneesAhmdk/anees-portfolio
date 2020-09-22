@@ -57,15 +57,16 @@ class Website extends Component {
                         page displays the pets with a very intuitive and responsive web experience. There is also an integrated donations page which allows people
                         to donate for vet bills and shelter development.   
                     </p>
-                    <h3 style = {{textAlign : "center"}}>Admin page</h3>
+                    <h3 style = {{textAlign : "center"}}>Admin console</h3>
                     <img src = {adminpage} alt = 'admin page'/>
-                    <h3 style = {{textAlign : "center"}}>Client page- Desktop View</h3>
+                    <h3 style = {{textAlign : "center"}}>Client site- Desktop View</h3>
                     <img src = {clientpage} alt = 'client page'/>
-                    <h3 style = {{textAlign : "center"}}>Client page- Mobile View</h3>
+                    <h3 style = {{textAlign : "center"}}>Client site- Mobile View</h3>
                     <img src = {mobileview} alt = 'client page - mobile'/>
                     <h3>Status</h3>
+                    <i>(Updated on 22/09/2020)</i>
                     <p>The development of the website is completed. Due to a technical error by the hosting site, the deployment of the website is delayed slightly by a few days. 
-                        The website will be live on www.adhvikafoundation.com within a week.
+                        The website will be live on www.adhvikafoundation.org once deployed .
                     </p>
                 </div>
             </div>
