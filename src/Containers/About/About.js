@@ -50,7 +50,7 @@ class About extends Component {
                     </h2>
                     <p>
                         After graduation, I came for a 'one month' (now 6 months and ongoing ) holiday to my home country - India. I was enjoying for a month, but 
-                        I'm a person who wants to explore stuff and keep learning. I started browing through and came across online courses in UX design and Web design and development
+                        I'm a person who wants to explore stuff and keep learning. I started browing through and came across online courses in UX/UI design and Web design and development
                         and started practicing for over 7 hours every day until I started mastering them.
                         I felt that I was lagging experience even though I had knowledge. So I created my own opportunity by 
                         creating a dedicated pet adoption website for a pet center in my city.
