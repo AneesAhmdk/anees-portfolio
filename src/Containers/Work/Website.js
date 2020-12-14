@@ -5,6 +5,8 @@ import './Website.css'
 import adminpage from '../../assets/adminpage.png'
 import clientpage from '../../assets/clientpage1.png'
 import mobileview from '../../assets/mobilepage.png'
+import { ExternalLink } from 'react-external-link';
+
 
 class Website extends Component {
     
@@ -64,9 +66,9 @@ class Website extends Component {
                     <h3 style = {{textAlign : "center"}}>Client site- Mobile View</h3>
                     <img src = {mobileview} alt = 'client page - mobile'/>
                     <h3>Status</h3>
-                    <i>The website is live on <ExternalLink href="adhvikafoundation.org">
+                    <i>The website is live on <ExternalLink href="http://adhvikafoundation.org">
                         adhvikafoundation.org
-                        </ExternalLink> but the details are yet to be updated.</i>
+                        </ExternalLink> but the details of the pets are yet to be updated in the database.</i>
                 
                 </div>
             </div>
