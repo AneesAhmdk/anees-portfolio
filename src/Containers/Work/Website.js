@@ -64,10 +64,10 @@ class Website extends Component {
                     <h3 style = {{textAlign : "center"}}>Client site- Mobile View</h3>
                     <img src = {mobileview} alt = 'client page - mobile'/>
                     <h3>Status</h3>
-                    <i>(Updated on 22/09/2020)</i>
-                    <p>The development of the website is completed. Due to a technical error by the hosting site, the deployment of the website is delayed slightly by a few days. 
-                        The website will be live on www.adhvikafoundation.org once deployed .
-                    </p>
+                    <i>The website is live on <ExternalLink href="adhvikafoundation.org">
+                        adhvikafoundation.org
+                        </ExternalLink> but the details are yet to be updated.</i>
+                
                 </div>
             </div>
             </Fragment>
