@@ -5,6 +5,8 @@ import './Website.css'
 import adminpage from '../../assets/adminpage.png'
 import clientpage from '../../assets/clientpage1.png'
 import mobileview from '../../assets/mobilepage.png'
+import { ExternalLink } from 'react-external-link';
+
 
 class Website extends Component {
     
@@ -64,10 +66,10 @@ class Website extends Component {
                     <h3 style = {{textAlign : "center"}}>Client site- Mobile View</h3>
                     <img src = {mobileview} alt = 'client page - mobile'/>
                     <h3>Status</h3>
-                    <i>(Updated on 22/09/2020)</i>
-                    <p>The development of the website is completed. Due to a technical error by the hosting site, the deployment of the website is delayed slightly by a few days. 
-                        The website will be live on www.adhvikafoundation.org once deployed .
-                    </p>
+                    <i>The website is live on <ExternalLink href="http://adhvikafoundation.org">
+                        adhvikafoundation.org
+                        </ExternalLink> but the details of the pets are yet to be updated in the database.</i>
+                
                 </div>
             </div>
             </Fragment>

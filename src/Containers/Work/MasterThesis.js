@@ -88,10 +88,10 @@ class MasterThesis extends Component {
                         The eHMI, even though it was intuitive, was misused and many pedestrians in the virtual environment crashed with the Autonomous Vehicle(AV). After extensive pre and post
                         experiment questionnaires and user interviews, we got insights into how the experiment can be further developed and also an eHMI design to eliminate the 
                         misuse and further accidents.
-                        Our interesting findings were compiled to be published in the Human Factors Journal. A copy of the pre-print is available on ResearchGate in the following link. <br/>
+                        Our interesting findings were published in "Human Factors: The Journal of the Human Factors and Ergonomics Society". You can obtain a copy of the paper in the following link. <br/>
                         <br/>
-                        <ExternalLink href="https://www.researchgate.net/publication/340923494_External_Human-Machine_Interfaces_can_be_Misleading_An_examination_of_trust_development_and_misuse_in_a_CAVE-based_pedestrian_simulation_environment">
-                        Journal pre-print
+                        <ExternalLink href="https://journals.sagepub.com/doi/10.1177/0018720820970751">
+                        HF Paper
                         </ExternalLink>
                     </p>                    
                 </div>
