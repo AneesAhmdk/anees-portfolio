@@ -43,19 +43,19 @@ class About extends Component {
                     my knowledge of creative designing into play. <br/><br/>I started loving psychology and HMIs and how they are linked together to make a meaningful
                     user experience. I went through literature and proposed a unique thesis idea to my Professors and they were astonished by the 
                     idea. They helped me in every way they could to finish my thesis in an interesting and successful way. My Professors thought that this 
-                    thesis would serve as a plus to the Human Factors community and we compiled it to a journal article which is under the peer review process currently. </p>
+                    thesis would serve as a plus to the Human Factors community and we compiled and published it in the human factors journal. </p>
 
                     <h2>
                         Covid-19 Pandemic - A boon to my Career 
                     </h2>
                     <p>
                         After graduation, I came for a 'one month' (now 6 months and ongoing ) holiday to my home country - India. I was enjoying for a month, but 
-                        I'm a person who wants to explore stuff and keep learning. I started browing through and came across online courses in UX and UI design and Web design and development
+                        I'm a person who wants to explore stuff and keep learning. I started browing through and came across online courses in Web design and development
                         and started practicing for over 7 hours every day until I started mastering them.
                         I felt that I was lagging experience even though I had knowledge. So I created my own opportunity by 
                         creating a dedicated pet adoption website for a pet center in my city.
-                        The client was very happy when I approached them. And now with two experiences in hand, I'm getting requests for small side projects
-                        from my close friends and relatives to design mobile apps or websites which I intend to start by the end of September 2020.</p>
+                        The client was very happy when I approached them. And now, I'm already getting requests for design and development of wesite and apps, but I always wanted to 
+                        work in a professional environment where I could share my work with my team and also learn more than what I know till now.</p>
 
                     <h2>
                         My loves 
@@ -74,7 +74,7 @@ class About extends Component {
                     But I had other thoughts. Why not portray my skills through my own designing and coding of my portfolio? Well, it took me
                     20 hours (not bad for a junior designer I think). I've been following the notion to never copy designs except for reference. 
                     This makes me believe on how creative I can get. </p><br/>
-                    I'm currently open to opportunities in the field of UX/UI/HMI design and development. 
+                    I'm currently open to opportunities as a human factors engineer or as UX/UI/HMI designer and developer. 
                     If you find me and my <Link style = {{textDecoration : "none", color : "blue"}} to = '/work'>work</Link> interesting, please reach out to me using the <Link style = {{textDecoration : "none", color : "blue"}} to = '/ContactMe'>contact form</Link> 
                             
                     
