@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Cv from '../../assets/Anees_CV.pdf'
+import Cv from '../../assets/ANEES AHAMED KALEEFATHULLAH CV.pdf'
 import NavigationBar from '../../Components/NavigationBar/NavigationBar';
 
 class CV extends Component{

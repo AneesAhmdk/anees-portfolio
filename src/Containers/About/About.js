@@ -43,7 +43,8 @@ class About extends Component {
                     my knowledge of creative designing into play. <br/><br/>I started loving psychology and HMIs and how they are linked together to make a meaningful
                     user experience. I went through literature and proposed a unique thesis idea to my Professors and they were astonished by the 
                     idea. They helped me in every way they could to finish my thesis in an interesting and successful way. My Professors thought that this 
-                    thesis would serve as a plus to the Human Factors community and we compiled and published it in the human factors journal. </p>
+                    thesis would serve as a plus to the Human Factors community and we compiled and published it in the Human Factors journal. </p>
+
 
                     <h2>
                         Covid-19 Pandemic - A boon to my Career 
