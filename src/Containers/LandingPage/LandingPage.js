@@ -20,7 +20,7 @@ class LandingPage extends Component {
                                 <p className = "hello" >Hello there!<br/>
                                 <span className = "meet"> Meet </span><br/>
                                 <span className = "anees">Anees Ahamed</span></p>
-                                <p className = "info"> An aspiring junior designer who wants to start his career as a Human Factors Engineer or UX/UI or HMI designer or developer</p>
+                                <p className = "info"> An aspiring junior designer who wants to start his career as a Human Factors Researcher or UX/UI or HMI designer or developer</p>
                             </div>
                         </div>
                     </div>
