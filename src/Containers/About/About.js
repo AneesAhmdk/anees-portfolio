@@ -45,6 +45,7 @@ class About extends Component {
                     idea. They helped me in every way they could to finish my thesis in an interesting and successful way. My Professors thought that this 
                     thesis would serve as a plus to the Human Factors community and we compiled and published it in the Human Factors journal. </p>
 
+
                     <h2>
                         Covid-19 Pandemic - A boon to my Career 
                     </h2>
